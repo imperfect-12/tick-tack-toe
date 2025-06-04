@@ -90,3 +90,4 @@ function checkAll(squares) {
   }
   return true;
 }
+// a change done from phone
