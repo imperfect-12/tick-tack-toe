@@ -3,8 +3,8 @@
 }
 
 body {
-  background-color: rgb(35, 33, 56);
-  color: rgb(202, 219, 235);
+  background-color: #9980ff;
+  color: #42366f;
   font-family: sans-serif;
   margin: 20px;
   padding: 0;
@@ -26,8 +26,10 @@ h3 {
 }
 
 h4 {
-  margin-top: 0;
+  margin-top: 1px;
   font-size: 16px;
+  margin-left: 50px;
+  margin-bottom: -7px;
 }
 
 h5 {
@@ -59,8 +61,8 @@ body {
 }
 
 .square {
-  color: rgb(35, 33, 56);
-  background: rgb(179, 200, 220);
+  color: #0600ab;
+  background: #f2e6ee;
   border: 1px solid #999;
   float: left;
   font-size: 24px;
